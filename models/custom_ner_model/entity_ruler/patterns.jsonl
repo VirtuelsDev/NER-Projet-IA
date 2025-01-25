@@ -1,0 +1,29 @@
+{"label":"TECHNOLOGY","pattern":"Machine Learning"}
+{"label":"TECHNOLOGY","pattern":"Deep Learning"}
+{"label":"TECHNOLOGY","pattern":"Neural Networks"}
+{"label":"TECHNOLOGY","pattern":"Artificial Intelligence"}
+{"label":"TECHNOLOGY","pattern":"Natural Language Processing"}
+{"label":"TECHNOLOGY","pattern":"Computer Vision"}
+{"label":"TECHNOLOGY","pattern":"Reinforcement Learning"}
+{"label":"CONCEPT","pattern":"Supervised Learning"}
+{"label":"CONCEPT","pattern":"Unsupervised Learning"}
+{"label":"CONCEPT","pattern":"Semi-Supervised Learning"}
+{"label":"CONCEPT","pattern":"Transfer Learning"}
+{"label":"CONCEPT","pattern":"Generative Adversarial Networks"}
+{"label":"CONCEPT","pattern":"Convolutional Neural Networks"}
+{"label":"CONCEPT","pattern":"Recurrent Neural Networks"}
+{"label":"TOOL","pattern":"TensorFlow"}
+{"label":"TOOL","pattern":"PyTorch"}
+{"label":"TOOL","pattern":"Keras"}
+{"label":"TOOL","pattern":"Scikit-learn"}
+{"label":"TOOL","pattern":"OpenCV"}
+{"label":"TOOL","pattern":"NLTK"}
+{"label":"TOOL","pattern":"SpaCy"}
+{"label":"ACRONYM","pattern":"AI"}
+{"label":"ACRONYM","pattern":"ML"}
+{"label":"ACRONYM","pattern":"DL"}
+{"label":"ACRONYM","pattern":"NLP"}
+{"label":"ACRONYM","pattern":"CV"}
+{"label":"ACRONYM","pattern":"GAN"}
+{"label":"ACRONYM","pattern":"CNN"}
+{"label":"ACRONYM","pattern":"RNN"}
